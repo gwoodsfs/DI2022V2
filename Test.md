@@ -46,14 +46,20 @@ foobar
 ```
 ---
 
-
+# WHY?
 ![bg left](https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220527141447-money-happiness-wellness-stock.jpg)
 
 ![bg height:720](https://github.com/gwoodsfs/DI2022V2/blob/main/Fail2.JPG?raw=true)
-![bg](https://i.cbc.ca/1.6464261.1653420856!/fileImage/httpImage/puzzle.jpeg)
-![bg](https://github.com/gwoodsfs/DI2022V2/blob/main/lift-up.png?raw=true)
+![bg ](https://i.cbc.ca/1.6464261.1653420856!/fileImage/httpImage/puzzle.jpeg)
+![bg height:720 width:200](https://github.com/gwoodsfs/DI2022V2/blob/main/lift-up.jpg?raw=true)
 
+1. Money, duh! :wink:
 
+1. Fear of Failure 
+aka
+Drive for Success!
+3. Creative problem solving is fun
+4. Being good is good, but making others better is great
 
 ---
 # Challenges = Opportunities
