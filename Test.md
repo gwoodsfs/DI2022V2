@@ -45,17 +45,15 @@ foobar
 foobar
 ```
 ---
-# But WHY do you do what you do?!
 
-![bg center opacity:.5](https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220527141447-money-happiness-wellness-stock.jpg)
 
-font-size: 60px;
-  color: #09c;
+![bg left](https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220527141447-money-happiness-wellness-stock.jpg)
 
-No, really:
-1. Fear of Failure
-2. Critical thinking & creative problem solving is fun!
-3. It's great to be great, but it's better to make others great.
+![bg height:720](https://github.com/gwoodsfs/DI2022V2/blob/main/Fail2.JPG?raw=true)
+![bg](https://i.cbc.ca/1.6464261.1653420856!/fileImage/httpImage/puzzle.jpeg)
+![bg](https://github.com/gwoodsfs/DI2022V2/blob/main/lift-up.png?raw=true)
+
+
 
 ---
 # Challenges = Opportunities
