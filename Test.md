@@ -69,3 +69,18 @@ A challenge is nothing more or less than an opportunity to do something awesome
 ---
 # Personal Investments & Their impact
 Photo of Ender here? 
+
+---
+# Business Value
+
+---
+# What worked well, what didn't, what would you change and how would that change things?
+
+---
+# What investments for the next 12 months, why and to what end?
+
+---
+# Anything else?
+
+---
+# Q&A
