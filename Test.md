@@ -7,20 +7,21 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 ---
 
-![bg left:40% 80%](https://marp.app/assets/marp.svg)
+![bg left:40% 80%](https://github.com/gwoodsfs/xs2020/blob/5dc09ec882b5fca564586f0f578db4207d40aa61/gwoods%20headshot%202022.jpg)
 
 # **Gabrielle Woods**
 
 XS Engineer Lead - NetOps
 
-![width:400px height:400px](https://github.com/gwoodsfs/xs2020/blob/5dc09ec882b5fca564586f0f578db4207d40aa61/gwoods%20headshot%202022.jpg)
+
 
 
 
 ---
 # What Would You Say you DO here?
 
-insert image of the office or whatever
+![width:700px height:400px](https://tenor.com/view/office-space-paul-lee-wilson-gary-cole-what-do-you-do-job-interview-gif-4457028)
+
 
 ---
 
