@@ -13,6 +13,9 @@ marp: true
 
 XS Engineer Lead - NetOps
 
+Digital Innovation Kickoff Meeting
+Virgin Hotel Las Vegas, Nevada
+June 20,2022 - June 23, 2022
 
 
 
@@ -55,16 +58,13 @@ foobar
 
 1. Money, duh! :wink:
 
-1. Fear of Failure 
-aka
-Drive for Success!
+1. Fear of Failure/Drive for Success!
 3. Creative problem solving is fun
 4. Being good is good, but making others better is great
 
 ---
-# Challenges = Opportunities
-
-A challenge is nothing more or less than an opportunity to do something awesome
+# Challenges are opportunities to grow, innovate and learn
+![bg left h:750 w:650](https://github.com/gwoodsfs/DI2022V2/blob/main/Challenge-and-Opportunity.jpg?raw=true)
 
 ---
 # Personal Investments & Their impact
@@ -78,9 +78,13 @@ Photo of Ender here?
 
 ---
 # What investments for the next 12 months, why and to what end?
+- Leadership training classes
+    - Improve my ability to enable my team and keep them engaged, secure, challenged, recognized and understood within our organization. 
+    - I'd like to increase communication, cooperation and innovative risk-taking
 
 ---
 # Anything else?
 
 ---
-# Q&A
+
+![bg fit](https://race.agency/wp-content/uploads/2014/07/Questions-and-answers_public-relations-agency_media-relations.jpg)
