@@ -1,0 +1,7 @@
+graph TD
+    A[NetOps Engineering] --- B(Gabrielle Woods, XS Engineer Lead)
+    B --- C[Maylin Peterson, XS Engineer]
+    B --- D[Christopher Vik, XS Engineer]
+    B --- E[Philip Nguyen, XS Engineer] 
+
+[![](https://mermaid.ink/img/pako:eNp10E1PwzAMBuC_YvkEUvsHemNrxQXGpCFAanYwi9dYpEmUj0M17b8TPgVI-OTD876SfcKD14wdTpGCgfteOahzNW4434UEg5vEMUdx0x7atoXVxTU9R2FrGR6916mBp903gxsmffnRsXr36_GWFisOtpw5Ju9--f1P2o9rEyVlH0xtepCX_-kwbo1YCbCZysJ_OgEbnDnOJLoednrLKcyGZ1bY1VXzkYrNCpU7V1qCpsyDluwjdkeyiRukkv1ucQfsciz8hXqh-qf5U51fAVvjZuE)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNp10E1PwzAMBuC_YvkEUvsHemNrxQXGpCFAanYwi9dYpEmUj0M17b8TPgVI-OTD876SfcKD14wdTpGCgfteOahzNW4434UEg5vEMUdx0x7atoXVxTU9R2FrGR6916mBp903gxsmffnRsXr36_GWFisOtpw5Ju9--f1P2o9rEyVlH0xtepCX_-kwbo1YCbCZysJ_OgEbnDnOJLoednrLKcyGZ1bY1VXzkYrNCpU7V1qCpsyDluwjdkeyiRukkv1ucQfsciz8hXqh-qf5U51fAVvjZuE)
