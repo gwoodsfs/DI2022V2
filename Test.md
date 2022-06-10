@@ -31,22 +31,10 @@ June 20,2022 - June 23, 2022
 ---
 
 # NetOps Team & Me
-Insert a goddamn graph here
+
+![bg height:450 width:1250](https://github.com/gwoodsfs/DI2022V2/blob/main/mermaid-diagram-20220518161749.png?raw=true)
 
 
-
-
-```markdown
-# Slide 1
-
-foobar
-
----
-
-# Slide 2
-
-foobar
-```
 ---
 
 # WHY?
@@ -61,20 +49,33 @@ foobar
 1. Fear of Failure/Drive for Success!
 3. Creative problem solving is fun
 4. Being good is good, but making others better is great
+But why here? Culture
 
 ---
 # Challenges are opportunities to grow, innovate and learn
 ![bg left h:750 w:650](https://github.com/gwoodsfs/DI2022V2/blob/main/Challenge-and-Opportunity.jpg?raw=true)
 
 ---
-# Personal Investments & Their impact
-Photo of Ender here? 
+# Personal Investments 
+![bg right height:650](https://github.com/gwoodsfs/DI2022V2/blob/main/Ender2.jpg?raw=true)
+- Changes Everything!
+- More patient
+- Calmer
+- Pause & reflect!
+- More empathetic
+
 
 ---
 # Business Value
-
+- Increased productivity through increased/improved communications/responsiveness
+- Reduced errors by improving documentation & adherance to process and procedure
+- Enhanced team-wide knowledge by embracing coaching opportunities and developing troubleshooting documentation for triage situations
 ---
 # What worked well, what didn't, what would you change and how would that change things?
+- Communication and engagement is up, but still needs to improve.
+- Improve how we train new engineers
+    - Creates a viable career track for more engineers to enter netops
+    - Brings more minds & ideas to innovate
 
 ---
 # What investments for the next 12 months, why and to what end?
@@ -84,6 +85,7 @@ Photo of Ender here?
 
 ---
 # Anything else?
+God no. Isn't this already enough?
 
 ---
 
