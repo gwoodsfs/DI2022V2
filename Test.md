@@ -43,7 +43,6 @@ June 20,2022 - June 23, 2022
 ![bg height:720](https://github.com/gwoodsfs/DI2022V2/blob/main/Fail2.JPG?raw=true)
 ![bg ](https://i.cbc.ca/1.6464261.1653420856!/fileImage/httpImage/puzzle.jpeg)
 ![bg height:720 width:200](https://github.com/gwoodsfs/DI2022V2/blob/main/lift-up.jpg?raw=true)
-
 1. Money, duh! :wink:
 
 1. Fear of Failure/Drive for Success!
@@ -63,13 +62,14 @@ But why here? Culture
 - Calmer
 - Pause & reflect!
 - More empathetic
+- A better coach
 
 
 ---
 # Business Value
-- Increased productivity through increased/improved communications/responsiveness
+- Increased productivity through increased/improved communications/responsiveness & promotion of team cohesion
 - Reduced errors by improving documentation & adherance to process and procedure
-- Enhanced team-wide knowledge by embracing coaching opportunities and developing troubleshooting documentation for triage situations
+- Enhanced team-wide knowledge by embracing coaching opportunities and developing troubleshooting documentation for triage situations (See: Acco triage workflow)
 ---
 # What worked well, what didn't, what would you change and how would that change things?
 - Communication and engagement is up, but still needs to improve.
@@ -78,15 +78,24 @@ But why here? Culture
     - Brings more minds & ideas to innovate
 
 ---
-# What investments for the next 12 months, why and to what end?
+# What investments for next year? Why? To what end?
 - Leadership training classes
     - Improve my ability to enable my team and keep them engaged, secure, challenged, recognized and understood within our organization. 
     - I'd like to increase communication, cooperation and innovative risk-taking
 
+    ![bg opacity:.20 offset height:550 right:25%](https://images-na.ssl-images-amazon.com/images/I/51xrHMLGJPL._SX330_BO1,204,203,200_.jpg)
+
 ---
 # Anything else?
-God no. Isn't this already enough?
+This was ultimately less painful than expected.
 
+The fork was invented in 2400BC in ancient egypt and is still the superior technology for it's use-case. 
+#TeamPowerPoint
+ 
+  
+   
+    
+    
 ---
-
 ![bg fit](https://race.agency/wp-content/uploads/2014/07/Questions-and-answers_public-relations-agency_media-relations.jpg)
+---
