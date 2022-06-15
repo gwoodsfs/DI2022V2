@@ -56,20 +56,18 @@ But why here? Culture
 
 ---
 # Personal Investments 
-![bg right height:650](https://github.com/gwoodsfs/DI2022V2/blob/main/Ender2.jpg?raw=true)
+![bg right:38% height:650 width:500](https://github.com/gwoodsfs/DI2022V2/blob/main/Ender2.jpg?raw=true)
 - Changes Everything!
 - More patient
 - Calmer
-- Pause & reflect!
 - More empathetic
 - A better coach
-
-
+- Professionally: small changes make lasting change
 ---
 # Business Value
 - Increased productivity through increased/improved communications/responsiveness & promotion of team cohesion
 - Reduced errors by improving documentation & adherance to process and procedure
-- Enhanced team-wide knowledge by embracing coaching opportunities and developing troubleshooting documentation for triage situations (See: Acco triage workflow)
+- Enhanced team-wide knowledge by embracing coaching opportunities and developing troubleshooting documentation for triage situations (Ex: Acco triage workflow)
 ---
 # What worked well, what didn't, what would you change and how would that change things?
 - Communication and engagement is up, but still needs to improve.
